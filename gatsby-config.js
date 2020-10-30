@@ -3,7 +3,7 @@ module.exports = {
     siteMetadata: {
         title: "Quarkly gatsby project",
         description: "",
-        author: "@Сергей Головков",
+        author: "@quarkly",
     },
     plugins: [
         "gatsby-plugin-react-helmet",
